@@ -1,0 +1,1 @@
+some systems need a build folder before compile.  A .gitkeep empty file is a way to create an empty folder.
